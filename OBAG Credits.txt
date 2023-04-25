@@ -1,0 +1,40 @@
+|Fire Emblem: Of Blood and Gold - CREDITS|
+
+Original Game by Intelligent Systems
+FEBuilder GBA by 7743
+Usenti by Cearn
+Character Creator by TheFlyingMinotaur
+
+Battle Animations:
+-Orihara_Saki (Berserker Magic)
+-Pikmin1211, Pushwall (Raven Hero w/ gold shield)
+-Pikmin1211 (Hero w/ gold shield)
+-Leo_Link, knabepicer, Pushwall (Bow Fighter)
+-TBA (Female Mercenary)
+-??? (Ephraim-Base Halberdier)
+ 
+Map Sprites:
+-Pikmin (Hero w/ gold shield)
+-Scraiza (Bow Fighter)
+-Ash3wl, L95, Dominus_Vobiscum (Fire Mage)
+-Leif, MeatofJustice (FE2 Sage)
+-Agro (Female Mercenary)
+-??? (Ephraim-Base Halberdier)
+
+Portraits:
+-Spud (Hunter Class Card)
+-L95 (Female Mercenary Class Card)
+-Wasdye (Assassin Karel)
+-Eldritch Abomination (Ephidel w/ Chibi)
+-CookieMaster (Young Orson)
+-L95 (Cyclops)
+
+Item Icons:
+-GabrielKnight (Icon Blitz 3 - Sword)
+-LordGlenn (tile027 - Sword)
+-Leif (Fire/Thunder/Wind Tomes)
+
+Magic Animations:
+-BwdYeti (Arcthunder)
+-Sme, Compile (Ice Shard)
+-Goldun Sun, Mikey-Seregon (Glacies)
