@@ -32,7 +32,7 @@ Portraits:
 Item Icons:
 -GabrielKnight (Icon Blitz 3 - Sword)
 -LordGlenn (tile027 - Sword)
--Leif (Fire/Thunder/Wind Tomes)
+-Leif (Fire/Thunder/Wind/Dark Tomes)
 
 Magic Animations:
 -BwdYeti (Arcthunder)
